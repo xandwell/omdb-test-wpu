@@ -1,6 +1,9 @@
+# OMDb API test
+
 Source code & API Key dari Web Programming UNPAS.
 
 > [Link Video](https://youtu.be/TvOFqREy7A8?si=fBQdRr7__TJae-kh)
+
 > [Source Code](https://github.com/sandhikagalih/rest-api/tree/master/5.%20apa-itu-public-api/wpu-movie)
 
 Web page sederhana untuk mendemonstrasikan penggunaan OMDb API, sebuah Public API untuk mencari data film IMDb. API diolah dengan javascript.
