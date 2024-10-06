@@ -18,12 +18,13 @@ Buka via localhost.
 
 Tampilan Awal
 
-![[images/Initial.png]]
+![tampilan awal](/images/Initial.png?raw=true)
+
 Search dengan keyword: 'avengers'
 
-![[images/search-test.png]]
+![search test](/images/search-test.png?raw=true)
 
 
 Detail movie ditampilkan dengan modal
 
-![[images/search-test.png]]
+![search test](/images/DetailModal.png?raw=true)
